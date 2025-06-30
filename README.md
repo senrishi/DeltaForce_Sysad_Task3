@@ -13,6 +13,6 @@ Few things still in WIP
 
 ## <mark style="background: #FF5582A6;"><span style="color:rgb(0, 0, 0)">Z3 Solver</span> </mark>
 
--  Length reduced by, assuming that the last character is a null terminator 
+-  Length reduced by 1 character, assuming that the last character is a null terminator 
 - Result:
 - i # &l"4!0[t"0!G Qj`,8AW(I(oq
