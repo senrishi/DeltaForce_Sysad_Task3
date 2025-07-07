@@ -23,7 +23,7 @@ Few things still in WIP
 - "none" algorithm used.
 - Exploit script sends normal user credentials to the login page to retrieve the token. The token is then modified to change the value of 'isAdmin' to True. When this new token is sent to the web app, the flag is returned. 
 
-# <mark style="background: #FFB86CA6;"><span style="color:rgb(0, 0, 0)">Forensics</span> </mark>
+## <mark style="background: #FFB86CA6;"><span style="color:rgb(0, 0, 0)">Forensics</span> </mark>
 
 - 2 files were split into chunks
 	- Image chunks : Used steghide to embed a message in the clean.jpeg file. Password to extract: delta
